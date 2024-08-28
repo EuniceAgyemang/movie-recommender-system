@@ -11,7 +11,7 @@ IMDB Movie (test) https://drive.google.com/file/d/1iPLdKH8YbVJAsar6a4XSDy2-e8G7m
 ## Tools and Technologies:
 Programming Language(s): Python
 
-## Libraries: suprise https://surpriselib.com/, pandas, numpy, seaborn, matplotlib
+Libraries: suprise https://surpriselib.com/, pandas, numpy, seaborn, matplotlib
 
 ## Getting Started:
 Clone this repository: git clone https://github.com/EuniceAgyemang/movie-recommender-system.git
